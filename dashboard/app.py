@@ -996,7 +996,7 @@ contact_left, contact_github, contact_email, contact_right = st.columns(
 with contact_github:
     st.link_button(
         "GitHub Repository",
-        "https://diwtandon.github.io/",
+        "https://diwtandon.github.io/CaReqDS-Data/",
         use_container_width=True
     )
 

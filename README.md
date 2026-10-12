@@ -14,7 +14,7 @@ The goal of this project is to provide an evidence-based view of what the Canadi
 
 Explore the interactive Canadian Job Market Dashboard:
 
-**[View Live Dashboard](https://diwtandon.github.io/)**
+**[View Live Dashboard](https://diwtandon.github.io/CaReqDS-Data/)**
 
 ---
 
@@ -325,7 +325,7 @@ There are two ways to explore the project.
 
 The easiest way to explore the project is through the GitHub Pages website:
 
-**[Open the Live Dashboard](https://diwtandon.github.io/)**
+**[Open the Live Dashboard](https://diwtandon.github.io/CaReqDS-Data/)**
 
 No installation is required.
 
@@ -336,7 +336,7 @@ No installation is required.
 Clone the project from GitHub and enter the project directory.
 
 ```bash
-git clone https://diwtandon.github.io/
+git clone https://diwtandon.github.io/CaReqDS-Data/
 cd Canada-Job-Market-Data-Analysis-
 ```
 
